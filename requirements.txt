@@ -1,5 +1,6 @@
 ipykernel
 numpy 
 pandas
-matplotlip
+matplotlib
 seaborn
+streamlit
