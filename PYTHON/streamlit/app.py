@@ -18,7 +18,7 @@ df = pd.DataFrame({
 st.write("Here is my sample dataframe")
 st.write(df)
 
-### creating a line chart
+### creating a line chart 
 chart_data = pd.DataFrame(
     np.random.randn(20,3),columns=['a','b','c']
 )

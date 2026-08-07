@@ -5,7 +5,8 @@ from sklearn.ensemble import RandomForestClassifier
 
 
 def load_data():
-    iris = laod_iris()
+    iris = load_iris()
     df = pd.DataFrame(iris.data, columns=iris.feature_names)
     df['species'] = iris.target
-    return df,iris.target_names
+    return df,iris.target_names 
+
