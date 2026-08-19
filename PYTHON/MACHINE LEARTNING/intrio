@@ -12,4 +12,8 @@
 
                 TYPES OF MACHINE LEARNING TECHNIQUES
 
+1-Supervised ML---In supervised learning, you give the computer data + the correct answers (labels) 
+2-Unsupervised ML --- you give the computer data but no correct answers, so the computer has to find patterns,groups or relationships by itself
+
+3-Reinforcement ML --- The computer (called an agent) interacts with an environment and learns by receiving rewards or penalties.
 
